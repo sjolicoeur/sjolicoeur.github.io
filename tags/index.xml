@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Adventurer of lost dreams</title>
-    <link>https://sjolicoeur.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Adventurer of lost dreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     <lastBuildDate>Sun, 29 Sep 2019 14:37:41 -0700</lastBuildDate>
     
-	<atom:link href="https://sjolicoeur.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>bob</title>
-      <link>https://sjolicoeur.github.io/tags/bob/</link>
+      <link>/tags/bob/</link>
       <pubDate>Sun, 29 Sep 2019 14:37:41 -0700</pubDate>
       
-      <guid>https://sjolicoeur.github.io/tags/bob/</guid>
+      <guid>/tags/bob/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
-      <link>https://sjolicoeur.github.io/tags/test/</link>
+      <link>/tags/test/</link>
       <pubDate>Sun, 29 Sep 2019 14:37:41 -0700</pubDate>
       
-      <guid>https://sjolicoeur.github.io/tags/test/</guid>
+      <guid>/tags/test/</guid>
       <description></description>
     </item>
     
