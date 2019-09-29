@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on Adventurer of lost dreams</title>
+    <link>http://example.org/tags/test/</link>
+    <description>Recent content in test on Adventurer of lost dreams</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Sun, 29 Sep 2019 14:37:41 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In the Beginning</title>
+      <link>http://example.org/posts/in-the-beginning/</link>
+      <pubDate>Sun, 29 Sep 2019 14:37:41 -0700</pubDate>
+      
+      <guid>http://example.org/posts/in-the-beginning/</guid>
+      <description>Test post for setting things up.</description>
+    </item>
+    
+  </channel>
+</rss>

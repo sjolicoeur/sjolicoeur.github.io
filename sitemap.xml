@@ -1,34 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/sitemap-stylesheet.xsl"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>/</loc>
-<lastmod>2010-12-03</lastmod>
-<changefreq>daily</changefreq>
-<priority>1.00</priority>
-</url><url>
-<loc>/my-first-review.html</loc>
-<lastmod>2010-12-03</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.80</priority>
-</url><url>
-<loc>/category/review.html</loc>
-<lastmod>2010-12-03</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.40</priority>
-</url><url>
-<loc>/tag/12.html</loc>
-<lastmod>2010-12-03</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.40</priority>
-</url><url>
-<loc>/tag/123.html</loc>
-<lastmod>2010-12-03</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.40</priority>
-</url><url>
-<loc>/author/sjolicoeur.html</loc>
-<lastmod>2010-12-03</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.40</priority>
-</url>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2019-09-29T14:37:41-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/bob/</loc>
+    <lastmod>2019-09-29T14:37:41-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/in-the-beginning/</loc>
+    <lastmod>2019-09-29T14:37:41-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2019-09-29T14:37:41-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2019-09-29T14:37:41-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/test/</loc>
+    <lastmod>2019-09-29T14:37:41-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/series/</loc>
+  </url>
+  
 </urlset>
