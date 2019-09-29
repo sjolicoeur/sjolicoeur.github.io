@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test on Adventurer of lost dreams</title>
-    <link>/tags/test/</link>
+    <link>https://sjolicoeur.github.io/tags/test/</link>
     <description>Recent content in test on Adventurer of lost dreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     <lastBuildDate>Sun, 29 Sep 2019 14:37:41 -0700</lastBuildDate>
     
-	<atom:link href="/tags/test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sjolicoeur.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>In the Beginning</title>
-      <link>/posts/in-the-beginning/</link>
+      <link>https://sjolicoeur.github.io/posts/in-the-beginning/</link>
       <pubDate>Sun, 29 Sep 2019 14:37:41 -0700</pubDate>
       
-      <guid>/posts/in-the-beginning/</guid>
+      <guid>https://sjolicoeur.github.io/posts/in-the-beginning/</guid>
       <description>Test post for setting things up.</description>
     </item>
     
