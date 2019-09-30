@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Adventurer of lost dreams</title>
-    <link>/posts/</link>
+    <link>blog.le-16.com/posts/</link>
     <description>Recent content in Posts on Adventurer of lost dreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     <lastBuildDate>Sun, 29 Sep 2019 14:37:41 -0700</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="blog.le-16.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>In the Beginning</title>
-      <link>/posts/in-the-beginning/</link>
+      <link>blog.le-16.com/posts/in-the-beginning/</link>
       <pubDate>Sun, 29 Sep 2019 14:37:41 -0700</pubDate>
       
-      <guid>/posts/in-the-beginning/</guid>
+      <guid>blog.le-16.com/posts/in-the-beginning/</guid>
       <description>Test post for setting things up. It&amp;rsquo;s going&amp;hellip;</description>
     </item>
     
